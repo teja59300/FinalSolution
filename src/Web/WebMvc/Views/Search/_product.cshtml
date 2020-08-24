@@ -1,0 +1,23 @@
+﻿@model OrderMyFoodApp.Web.WebMvc.Models.SearchItem
+
+
+
+
+<form asp-controller="Cart" asp-action="AddToCart">
+    <img class="esh-search-thumbnail" src="@Model.ItemPictureUrl" />
+    <input class="esh-search-button" type="submit" value="[ ADD TO CART ]" />
+    <div class="esh-catalog-name">
+        <span>@Model.ItemName</span>
+    </div>
+    <div class="esh-catalog-price">
+        <span>@Model.ItemPrice.ToString("N2")</span>
+    </div>
+    <input type="hidden" asp-for="@Model.Name " name="restaurant" />
+    <input type="hidden" asp-for="@Model.RestaurantId" name="restaurantId" />
+    
+   
+    <input type="hidden" asp-for="@Model.ItemId" name="id" />
+    <input type="hidden" asp-for="@Model.ItemName" name="name" />
+    <input type="hidden" asp-for="@Model.ItemPictureUrl" name="pictureUri" />
+    <input type="hidden" asp-for="@Model.ItemPrice" name="price" />
+</form>

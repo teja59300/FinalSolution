@@ -1,0 +1,14 @@
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\bin\Debug\netcoreapp2.1\RestuarantSearchApi.deps.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\bin\Debug\netcoreapp2.1\RestuarantSearchApi.runtimeconfig.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\bin\Debug\netcoreapp2.1\RestuarantSearchApi.runtimeconfig.dev.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\bin\Debug\netcoreapp2.1\RestuarantSearchApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\bin\Debug\netcoreapp2.1\RestuarantSearchApi.pdb
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.csprojAssemblyReference.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.RazorAssemblyInfo.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.RazorAssemblyInfo.cs
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.AssemblyInfoInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.AssemblyInfo.cs
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\OrderMyFoodApp\obj\Debug\netcoreapp2.1\RestuarantSearchApi.pdb

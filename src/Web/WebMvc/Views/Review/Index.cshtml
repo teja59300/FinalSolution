@@ -1,0 +1,25 @@
+﻿@model IEnumerable<OrderMyFood.Web.WebMvc.Models.ReviewModel.Review>
+
+<div class="container">
+    @if (Model.Count() > 0)
+    {
+        <div class="esh-catalog-items row">
+            @foreach (var Review in Model)
+            {
+                @Html.DisplayFor(modelItem => Review.Rating)
+                <br />
+                <br />
+                @Html.DisplayFor(modelItem => Review.Comment)
+            }
+        </div>
+
+        @Html.Partial("AddReview", "RestaurantId")
+    }
+    else
+    {
+        <div class="esh-catalog-items row">
+            THERE ARE NO REVIEWS
+        </div>
+    }
+</div>
+

@@ -1,0 +1,11 @@
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.deps.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.dev.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfo.cs
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.pdb
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.pdb

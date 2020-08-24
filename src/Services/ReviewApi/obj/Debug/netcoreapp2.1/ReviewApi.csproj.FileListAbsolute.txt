@@ -1,0 +1,14 @@
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\bin\Debug\netcoreapp2.1\ReviewApi.deps.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\bin\Debug\netcoreapp2.1\ReviewApi.runtimeconfig.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\bin\Debug\netcoreapp2.1\ReviewApi.runtimeconfig.dev.json
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\bin\Debug\netcoreapp2.1\ReviewApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\bin\Debug\netcoreapp2.1\ReviewApi.pdb
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.csprojAssemblyReference.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.RazorAssemblyInfo.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.RazorAssemblyInfo.cs
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.AssemblyInfoInputs.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.AssemblyInfo.cs
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.dll
+C:\Users\vmadmin123\source\repos\OrderMyFoodApp\src\Services\ReviewApi\obj\Debug\netcoreapp2.1\ReviewApi.pdb

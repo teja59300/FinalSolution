@@ -1,0 +1,20 @@
+﻿@model OrderMyFood.Web.WebMvc.Models.ReviewModel.Review
+
+
+<form asp-action="Index" asp-controller="Review">
+    <select id="Select1">
+        <option asp-for="@Model.Rating" value="1">1</option>
+        <option asp-for="@Model.Rating" value="2">2</option>
+        <option asp-for="@Model.Rating" value="3">3</option>
+        <option asp-for="@Model.Rating" value="4">4</option>
+        <option asp-for="@Model.Rating" value="5">5</option>
+    </select>
+    <textarea id="TextArea1" asp-for="@Model.Comment" rows="10" cols="20"></textarea>
+    <br />
+    <br />
+
+    <input class="esh-catalog-button" type="submit" value="[ ADD/UPDATE]" />
+    <input type="hidden" asp-for="@Model.RestaurantId" name="restaurantId" />
+    <input type="hidden" asp-for="@Model.ReviewId" name="reviewId" />
+    <input type="hidden" asp-for="@Model.UserId" name="userId" />
+</form>
